@@ -1,0 +1,8 @@
+{"level":"INFO","timestamp":"2026-04-15T16:28:51.642846","namespace":"mcp_agent.core.context","message":"Configuring logger with level: info"}
+{"level":"INFO","timestamp":"2026-04-15T16:28:51.735035","namespace":"mcp_agent.kicad_mcp_client","message":"Loading subagents from configuration..."}
+{"level":"INFO","timestamp":"2026-04-15T16:28:51.735035","namespace":"mcp_agent.kicad_mcp_client","message":"MCPApp initialized","data":{"data":{"progress_action":"Running","target":"kicad_mcp_client","agent_name":"mcp_application_loop","session_id":"7f829faa-d0b7-4de0-8413-e6f2bc8ac261"}}}
+{"level":"INFO","timestamp":"2026-04-15T16:28:51.753984","namespace":"mcp_agent.mcp.mcp_connection_manager","message":"kicad: Up and running with a persistent connection!"}
+{"level":"INFO","timestamp":"2026-04-15T16:28:54.214321","namespace":"mcp_agent.mcp.mcp_aggregator.agent","message":"Last aggregator closing, shutting down all persistent connections..."}
+{"level":"INFO","timestamp":"2026-04-15T16:28:54.214321","namespace":"mcp_agent.mcp.mcp_connection_manager","message":"Disconnecting all persistent server connections..."}
+{"level":"INFO","timestamp":"2026-04-15T16:28:54.214321","namespace":"mcp_agent.mcp.mcp_connection_manager","message":"kicad: Requesting shutdown..."}
+{"level":"INFO","timestamp":"2026-04-15T16:28:54.407170","namespace":"mcp_agent.mcp.mcp_connection_manager","message":"All persistent server connections signaled to disconnect."}
